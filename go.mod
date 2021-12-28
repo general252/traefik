@@ -81,13 +81,7 @@ require (
 	gopkg.in/DataDog/dd-trace-go.v1 v1.19.0
 	gopkg.in/fsnotify.v1 v1.4.7
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
-	k8s.io/api v0.21.0
-	k8s.io/apiextensions-apiserver v0.20.2
-	k8s.io/apimachinery v0.21.0
-	k8s.io/client-go v0.21.0
-	k8s.io/utils v0.0.0-20210709001253-0e1f9d693477
 	mvdan.cc/xurls/v2 v2.1.0
-	sigs.k8s.io/gateway-api v0.3.0
 )
 
 // Containous forks
